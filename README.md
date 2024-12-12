@@ -9,3 +9,4 @@
 * abbreviation will be **TRUMP** because *of course it will be.*
 * ***not a token, an actual coin***
 * **all addresses** will start with **"T"** as in **Trump**
+* no static nodes means complete decentralization
