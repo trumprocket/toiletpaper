@@ -11,3 +11,4 @@
 * **all addresses** will start with **"T"** as in **Trump**
 * no static nodes means complete decentralization
 * i hate walletbuilders, they can go to hell
+* no compiled builds, build from source you can verify and not trust (plus we're too lazy lol)
