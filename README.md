@@ -1,9 +1,11 @@
-# The Toilet Paper
+# The Toilet Paper/Brown Paper
 
 * like litecoin
-* uses scrypt
+* uses scrypt PoW
+* scrypt PoW sounds cool
 * lasts multiple thousands of years
 * smallest units are called Trumpettes
 * [made using a hand-holding altcoin coin generator i found on duckduckgo](https://www.walletbuilders.com)
-* abbreviation will be TRUMP
-* not a token, an actual coin
+* abbreviation will be **TRUMP** because *of course it will be.*
+* ***not a token, an actual coin***
+* **all addresses** will start with **"T"** as in **Trump**
